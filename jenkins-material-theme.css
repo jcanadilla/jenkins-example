@@ -2973,3 +2973,18 @@ pre a {
     color: #fff !important;
     border: 1px solid #5788a1 !important;
 }
+
+#projectstatus th a {
+	color: #fff;
+}
+
+#projectstatus th {
+ 	background-color: #00a4e3;
+	color: #fff !important;
+	border: #00a4e3 solid;
+}
+
+.tabBar .tab.active a {
+	background-color: #00a4e3;
+	border: #00a4e3 solid;
+}
